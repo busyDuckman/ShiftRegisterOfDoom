@@ -11,6 +11,11 @@ A TPIC6B595 breakout board (TTL), with related Arduino libraries.
 ** The Breakout board:  **  
   Created using [KiCad](http://kicad-pcb.org/)  
   Source in \TPIC6B595_power_sift_reg_breakout  
+  Spec sheets and sources of information used:
+    - http://www.ti.com/lit/ds/symlink/tpic6b595.pdf
+	- http://www.ti.com/lit/ds/symlink/tpic6a596.pdf
+	- http://forum.arduino.cc/index.php?topic=288359.0
+	- https://www.snapeda.com/parts/TPIC6B595/Texas%20Instruments/view-part/
   
 ** The Arduino Code:  **  
   Once the electrical work is done.  
